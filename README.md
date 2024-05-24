@@ -11,6 +11,10 @@
 
 ---
 
+<div>
+<img src='./img/mern.jpg' alt='MERN Stack' width='100%'>
+</div>
+
 ## 🌟 About Me
 
 I am a passionate and dedicated MERN Stack Developer. With a strong foundation in both front-end and back-end technologies, I specialize in building dynamic and responsive web applications. I also have experience in developing mobile applications. My goal is to deliver high-quality and efficient solutions that provide an excellent user experience.
