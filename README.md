@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/~01abcd23ef45678901"><img src="https://img.shields.io/badge/Upwork-6fda44?style=flat&logo=upwork" alt="Upwork"></a>
-  <a href="mailto:saadk738@example.com"><img src="https://img.shields.io/badge/Email-c14438?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.upwork.com/freelancers/~01dca086e5a4fcde96"><img src="https://img.shields.io/badge/Upwork-6fda44?style=flat&logo=upwork" alt="Upwork"></a>
+  <a href="mailto:radat738@gmail.com"><img src="https://img.shields.io/badge/Email-c14438?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://portfolio-saad-khan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-blueviolet?style=flat&logo=vercel" alt="Portfolio"></a>
 </p>
 
@@ -19,13 +19,12 @@
 
 ## 🌟 About Me
 
-I am a passionate and dedicated MERN Stack Developer. With a strong foundation in both front-end and back-end technologies, I specialize in building dynamic and responsive web applications. I also have experience in developing mobile applications. My goal is to deliver high-quality and efficient solutions that provide an excellent user experience.
+I am a passionate and dedicated MERN Stack as well as iOS/Android Mobile App Developer. With a strong foundation in both front-end and back-end technologies, I specialize in building dynamic and responsive web applications. I also have experience in developing mobile applications. My goal is to deliver high-quality and efficient solutions that provide an excellent user experience.
 
-- 👀 I’m interested in full stack web development, mobile app development, and exploring new technologies.
+- 👀 I'm experienced in full stack web development, mobile app development, and exploring new technologies.
 - 🌱 I’m currently learning advanced Node.js and exploring serverless architecture.
 - 💞️ I’m looking to collaborate on open-source projects and innovative web applications.
-- 📫 How to reach me: saadk738@example.com
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: radat738@gmail.com
 - ⚡ Fun fact: I love playing chess and coding challenges.
 
 ## 🛠️ Tech Stack
@@ -91,7 +90,7 @@ I am a passionate and dedicated MERN Stack Developer. With a strong foundation i
 Feel free to reach out to me for any project collaborations or just to connect!
 
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/~01abcd23ef45678901"><img src="https://img.shields.io/badge/Upwork-6fda44?style=flat&logo=upwork" alt="Upwork"></a>
-  <a href="mailto:saadk738@example.com"><img src="https://img.shields.io/badge/Email-c14438?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.upwork.com/freelancers/~01dca086e5a4fcde96"><img src="https://img.shields.io/badge/Upwork-6fda44?style=flat&logo=upwork" alt="Upwork"></a>
+  <a href="mailto:radat738@gmail.com"><img src="https://img.shields.io/badge/Email-c14438?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://portfolio-saad-khan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-blueviolet?style=flat&logo=vercel" alt="Portfolio"></a>
 </p>
