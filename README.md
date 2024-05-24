@@ -1,3 +1,7 @@
+<div>
+<img src='./img/mern.jpg' alt='MERN Stack' width='100%'>
+</div>
+
 <h1 align="center">👋 Hi, I'm Saad Khan</h1>
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/161525282?v=4" alt="Saad Khan" width="150">
@@ -11,9 +15,6 @@
 
 ---
 
-<div>
-<img src='./img/mern.jpg' alt='MERN Stack' width='100%'>
-</div>
 
 ## 🌟 About Me
 
